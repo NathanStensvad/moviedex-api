@@ -12,6 +12,9 @@
     "url": "git+https://github.com/NathanStensvad/moviedex-api.git"
   },
   "keywords": [],
+  "engines": {
+    "node": "10.11.0"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
